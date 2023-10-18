@@ -22,4 +22,3 @@ React-Boot  이용 UI/UX 개선
 ![image](https://github.com/Raisin27/RecruitmentSite_project/assets/104148147/0aa051bd-21f6-4cd8-9cf7-d3151851dbc6)
 ![image](https://github.com/Raisin27/RecruitmentSite_project/assets/104148147/58b15849-531d-4c9a-a5f2-981346fd639e)
 
-![image](https://github.com/Raisin27/RecruitmentSite_project/assets/104148147/dc861cfc-ce58-4098-a85a-3936239dd1d6)
