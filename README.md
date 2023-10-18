@@ -1,5 +1,5 @@
 # RecruitmentSite_project
-학과 채용 관련 홈페이지
+REACT JS로 만들어진 학과 채용 관련 홈페이지
 
 #기능
 회사추가 버튼을 누르면, 회사 추가 가능
