@@ -4,6 +4,8 @@
 #기능
 회사추가 버튼을 누르면, 회사 추가 가능
 삭제 버튼을 클릭하면, 삭제 가능 
+
+
 #적용 기술
 json server 및 REST API를 이용하여, 데이터를 처리
 React 아래 기술 이용
@@ -11,6 +13,7 @@ React 아래 기술 이용
 라우터 이용
 리액트 훅스 이용
 React-Boot  이용 UI/UX 개선
+
 
 #실행 결과
 ![image](https://github.com/Raisin27/RecruitmentSite_project/assets/104148147/0b8dea12-d02a-4700-85d7-c2cbc0fd937c)
